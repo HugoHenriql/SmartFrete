@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SmartFrete": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
